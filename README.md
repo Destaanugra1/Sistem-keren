@@ -36,9 +36,14 @@ Setelah itu, buatlah database dengan nama 'sbp' lalu import file db_sbp.sql ke d
 
 ## 💻 Screenshots
 
+# Home Page
 ![Gambar Contoh](img/index.png)
+# diaknosa
 ![Gambar Contoh](img/dianoksa.png)
+Ciri kerusakan
 ![Gambar Contoh](img/kerusakan.png)
+detail kerusakan
+![Gambar Contoh](img/detail.png)
 
 
 [MIT](https://choosealicense.com/licenses/mit/)

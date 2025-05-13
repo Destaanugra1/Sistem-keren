@@ -40,9 +40,9 @@ Setelah itu, buatlah database dengan nama 'sbp' lalu import file db_sbp.sql ke d
 ![Gambar Contoh](img/index.png)
 # diaknosa
 ![Gambar Contoh](img/dianoksa.png)
-Ciri kerusakan
+# Ciri kerusakan
 ![Gambar Contoh](img/kerusakan.png)
-detail kerusakan
+# detail kerusakan
 ![Gambar Contoh](img/detail.png)
 
 

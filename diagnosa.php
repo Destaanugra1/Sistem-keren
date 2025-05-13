@@ -42,7 +42,7 @@ if (isset($_SESSION['login_user'])) {
         <a href="index.html" class="flex items-center">
           <img src="img/xiomi.png" class="mr-3 h-6 sm:h-9" alt="Konter Logo" />
           <span class="self-center text-xl font-semibold whitespace-nowrap text-[#FFD700]">
-            Konter
+            Kelompok 2
             <span class="bg-[#FFD700] text-black text-xs font-semibold mr-2 px-2.5 py-0.5 rounded">
               Beta
             </span>
